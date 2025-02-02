@@ -37,16 +37,12 @@ python app.py
 Project Documentation
 For Software:
 
-Screenshots (Add at least 3)
+Screenshots
 ![Popup message showing demo](https://github.com/user-attachments/assets/65c1dd12-cf94-49e6-9f98-b4dae9c98e31)
 
 ![Measuring heartrate](https://github.com/user-attachments/assets/15ef7e49-6a6d-44bd-908d-8d3eab2ed965)
 
 
-
-
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
 
 
