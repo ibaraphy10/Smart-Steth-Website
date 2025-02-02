@@ -1,81 +1,54 @@
-[Project Name] 🎯
+AI Steth App🎯
 Basic Details
-Team Name: [Name]
+Team Name: CodeCutie
 Team Members
-Member 1: [Name] - [College]
-Member 2: [Name] - [College]
-Member 3: [Name] - [College]
+Member 1: Iba Raphy - Govt Model Engineering College, Thrikakkara
+
 Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/ibaraphy10/Smart-Steth-Website.git
 
 Project Description
-[2-3 lines about what your project does]
+Heartbeat recorder and analyser for primary diagnose and education purpose
 
 The Problem statement
-[What ridiculous problem are you solving?]
+we dont necessarily have to go to a doctor for simple weekly checkups or disturb a doctor's working day to explore and experiment more on heartbeat and stuff
 
 The Solution
-[How are you solving it? Keep it fun!]
+we go to doctor since they have steth, we have phones so why dont we make a steth out of phones
 
 Technical Details
 Technologies/Components Used
 For Software:
 
-[Languages used]
-[Frameworks used]
-[Libraries used]
-[Tools used]
-For Hardware:
+[Languages used]: Python, JavaScript, HTML, CSS
+[Frameworks used]: Flask (Backend),JavaScript, HTML, CSS(Frontend)
+[Libraries used]: NumPy, SQLite, Wave 
+[Tools used]: VS Code, GitHub
 
-[List main components]
-[List specifications]
-[List tools required]
 Implementation
 For Software:
 
 Installation
-[commands]
+pip install flask numpy
 
 Run
-[commands]
+python app.py
 
 Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![Popup message showing demo](https://github.com/user-attachments/assets/65c1dd12-cf94-49e6-9f98-b4dae9c98e31)
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![Measuring heartrate](https://github.com/user-attachments/assets/15ef7e49-6a6d-44bd-908d-8d3eab2ed965)
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+
+
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
-For Hardware:
 
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
-
-Project Demo
-Video
-[Add your demo video link here] Explain what the video demonstrates
-
-Additional Demos
-[Add any extra demo materials/links]
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Iba Raphy: Sole Contributor
