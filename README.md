@@ -1,4 +1,4 @@
-AI Steth App🎯
+#Smart Steth App🎯
 
 Basic Details
 
