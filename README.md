@@ -4,16 +4,16 @@ Team Name: CodeCutie
 Team Members
 Member 1: Iba Raphy - Govt Model Engineering College, Thrikakkara
 
-Hosted Project Link
+Hosted Project Link: 
 https://github.com/ibaraphy10/Smart-Steth-Website.git
 
-Project Description
+Project Description:
 Heartbeat recorder and analyser for primary diagnose and education purpose
 
-The Problem statement
+The Problem statement: 
 we dont necessarily have to go to a doctor for simple weekly checkups or disturb a doctor's working day to explore and experiment more on heartbeat and stuff
 
-The Solution
+The Solution: 
 we go to doctor since they have steth, we have phones so why dont we make a steth out of phones
 
 Technical Details
