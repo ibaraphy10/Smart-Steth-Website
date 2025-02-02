@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Stethoscope</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Smart Steth✨</h1>
+
+    <!-- 🎤 Recording Section -->
+    <h2>Analyse Your Heartbeat</h2>
+    <button id="startRecording">Start Recording</button>
+    <button id="stopRecording" disabled>Stop Recording</button>
+
+    <h3>Playback</h3>
+    <audio id="audioPlayback" controls></audio>
+
+    <!-- 📊 Analysis Section -->
+    <button id="analyzeRecording" disabled>Analyse Heartbeat</button>
+    <p id="analysisResult"></p> <!-- Shows real-time result -->
+
+    <!-- 🕒 History Section -->
+    <h2>Previous Heartbeat Records</h2>
+    <div id="history"></div> <!-- Shows previous heartbeat records -->
+
+    <!-- Demo Popup -->
+    <div id="demoPopup" class="demo-popup">
+        <div class="demo-content">
+            <h2>Welcome to Smart Steth!</h2>
+            <p>To get the most accurate results, please make sure you're in a quiet environment, sitting comfortably and without distractions.</p>
+            <p>Make sure to place the phone closer to chest to detect feeble heartbeats..</p>
+            <p>Follow the steps to record and analyze your heartbeat.</p>
+            <button id="closeDemo">Got It, Let's Start!</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script> <!-- Link to JavaScript file -->
+</body>
+</html>
