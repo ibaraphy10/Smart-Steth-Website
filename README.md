@@ -1,4 +1,4 @@
-#Smart Steth App🎯
+#Smart Steth Website🎯
 
 Basic Details
 
